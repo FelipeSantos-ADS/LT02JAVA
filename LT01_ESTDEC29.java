@@ -15,7 +15,7 @@ public class LT01_ESTDEC29 {
         }
         else{
             JOptionPane.showMessageDialog(null, "Tipo de investimento inválido!");
-    }
+        }    
     }
     
 }
